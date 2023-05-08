@@ -24,5 +24,4 @@ public class FactoryPatternDemo {
         shape2.draw();
 
     }
-
 }

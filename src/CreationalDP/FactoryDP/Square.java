@@ -6,4 +6,5 @@ public class Square implements Shape{
     public void draw() {
         System.out.println("draw method called by square object");
     }
+
 }

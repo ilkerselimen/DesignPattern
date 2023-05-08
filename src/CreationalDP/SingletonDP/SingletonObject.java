@@ -16,5 +16,4 @@ public class SingletonObject {
         this.message = this.message + " Batch 130-131-138";
         System.out.println(this.message);
     }
-
 }

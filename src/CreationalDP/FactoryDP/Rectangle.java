@@ -6,4 +6,5 @@ public class Rectangle implements Shape {
     public void draw() {
         System.out.println("draw method called by rectangle object");
     }
+
 }

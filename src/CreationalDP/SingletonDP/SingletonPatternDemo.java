@@ -14,5 +14,4 @@ public class SingletonPatternDemo {
         System.out.println(obj2.message); // Hi Batch 130-131-138
 
     }
-
 }
